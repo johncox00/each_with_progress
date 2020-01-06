@@ -7,6 +7,8 @@ Gem::Specification.new do |s|
   s.authors     = ["John Cox"]
   s.email       = 'johncox@gmail.com'
   s.files       = ["lib/each_with_progress.rb"]
+  s.files       += Dir['lib/*.rb']
+  s.files       += Dir['lib/core_extensions/**/*']
   s.homepage    =
     'https://github.com/johncox00/each_with_progress'
   s.license       = 'MIT'
