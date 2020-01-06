@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'johncox@gmail.com'
   s.files       = ["lib/each_with_progress.rb"]
   s.homepage    =
-    'https://rubygems.org/gems/each_with_progress'
+    'https://github.com/johncox00/each_with_progress'
   s.license       = 'MIT'
 end
